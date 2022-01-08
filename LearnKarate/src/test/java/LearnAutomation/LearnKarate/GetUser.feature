@@ -11,9 +11,9 @@ Then status 200
 * def actId = jsonResponse.data[0].id
 * def actEmail = jsonResponse.data[0].email
 * print actName
-* match actName == 'Betsy Markson'
-* match actId == 3020
-* match actEmail == 'Erica6@hotmail.com'
+* match actName == 'ssss'
+* match actId == 3021
+* match actEmail == 'sssss31@gmail.com'
 
 
 Scenario: get user details - user not found
